@@ -6,7 +6,7 @@ import {
   Info, ShieldCheck, PhoneCall, Phone, ChevronRight, ArrowRight, Smartphone, Settings, Users, Activity, Lock, User
 } from 'lucide-react';
 
-const API_BASE_URL = import.meta.env.VITE_API_URL;
+const API_BASE_URL = "https://krishi-sahayak-bi6n.onrender.com/api";
 
 export default function App() {
   const [authStep, setAuthStep] = useState('login');
