@@ -1,0 +1,53 @@
+# ========================
+# NODE MODULES
+# ========================
+node_modules/
+
+# ========================
+# BUILD FILES
+# ========================
+dist/
+dist-ssr/
+build/
+
+# ========================
+# ENV FILES (IMPORTANT 🔥)
+# ========================
+.env
+.env.local
+.env.*.local
+
+# ========================
+# LOG FILES
+# ========================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ========================
+# SYSTEM FILES
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# EDITOR / IDE FILES
+# ========================
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ========================
+# MISC
+# ========================
+*.local
+coverage/
