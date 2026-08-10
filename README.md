@@ -28,7 +28,7 @@ An **AI-powered MERN application** that:
 ✅ Identifies schemes a farmer is eligible for  
 ✅ Explains them in simple Hindi  
 ✅ Calls farmers directly using AI voice  
-✅ Targets even **non-smartphone users**
+✅ Targets even *non-smartphone users*
 
 ---
 
